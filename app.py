@@ -1,4 +1,4 @@
-import os
+import os # this inports the os info of the local
 import torch
 import pandas as pd
 import numpy as np
